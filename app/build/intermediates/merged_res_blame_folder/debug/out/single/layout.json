@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-mergeDebugResources-33:/layout/activity_convulsions_website.xml",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_convulsions_website.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-mergeDebugResources-33:/layout/activity_add_doctors.xml",
+        "source": "com.example.finalproject.app-main-36:/layout/activity_add_doctors.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-mergeDebugResources-33:/layout/activity_view_doctors.xml",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_view_doctors.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-mergeDebugResources-33:/layout/activity_ulcers_website.xml",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_ulcers_website.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-mergeDebugResources-33:/layout/activity_add_doctors.xml",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_add_doctors.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-mergeDebugResources-33:/layout/activity_allergies_website.xml",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_allergies_website.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-mergeDebugResources-33:/layout/activity_asthma_website.xml",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_asthma_website.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-mergeDebugResources-33:/layout/activity_crumps_website.xml",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_crumps_website.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-mergeDebugResources-33:/layout/view_doctors_list.xml",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/view_doctors_list.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-mergeDebugResources-33:/layout/activity_stomach_website.xml",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_stomach_website.xml"
+    }
+]

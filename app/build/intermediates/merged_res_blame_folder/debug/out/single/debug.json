@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_stomach_website.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_stomach_website.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_convulsions_website.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_convulsions_website.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.finalproject.app-merged_res-34:/layout_activity_add_doctors.xml.flat",
+        "source": "com.example.finalproject.app-main-36:/layout/activity_add_doctors.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_crumps_website.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_crumps_website.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_add_doctors.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_add_doctors.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_view_doctors.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_view_doctors.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_view_doctors_list.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/view_doctors_list.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_ulcers_website.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_ulcers_website.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_asthma_website.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_asthma_website.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/layout_activity_allergies_website.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/layout/activity_allergies_website.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_doctor2.jpeg.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/doctor2.jpeg"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_baseline_image_24.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/baseline_image_24.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_doctor.jpeg.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/doctor.jpeg"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-merged_res-34:/drawable_doctor1.jpeg.flat",
+        "source": "/home/user/.gradle/daemon/7.5/com.example.finalproject.app-main-36:/drawable/doctor1.jpeg"
+    }
+]
